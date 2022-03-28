@@ -1,0 +1,6 @@
+shortcut :
+- rcc
+- rconst
+- rafce
+
+npm install react-router-dom@5.2
