@@ -12,6 +12,10 @@ body {
   background-color: #22668A;
   color:white;
 }
+.btn-primary{
+  background-color: #22668A;
+  border-color: #0f364a;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
